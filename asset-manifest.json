@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/uxuidesign/static/css/main.3d50adac.chunk.css",
+    "main.css": "/uxuidesign/static/css/main.de9ddea5.chunk.css",
     "main.js": "/uxuidesign/static/js/main.4601a7d7.chunk.js",
     "main.js.map": "/uxuidesign/static/js/main.4601a7d7.chunk.js.map",
     "runtime-main.js": "/uxuidesign/static/js/runtime-main.c1cf5559.js",
@@ -8,9 +8,9 @@
     "static/js/2.6cb6d0fe.chunk.js": "/uxuidesign/static/js/2.6cb6d0fe.chunk.js",
     "static/js/2.6cb6d0fe.chunk.js.map": "/uxuidesign/static/js/2.6cb6d0fe.chunk.js.map",
     "index.html": "/uxuidesign/index.html",
-    "precache-manifest.23c0ad5a492b18a93d74925afc45af5f.js": "/uxuidesign/precache-manifest.23c0ad5a492b18a93d74925afc45af5f.js",
+    "precache-manifest.456a411f6b794e6065252a5aea8c8ef3.js": "/uxuidesign/precache-manifest.456a411f6b794e6065252a5aea8c8ef3.js",
     "service-worker.js": "/uxuidesign/service-worker.js",
-    "static/css/main.3d50adac.chunk.css.map": "/uxuidesign/static/css/main.3d50adac.chunk.css.map",
+    "static/css/main.de9ddea5.chunk.css.map": "/uxuidesign/static/css/main.de9ddea5.chunk.css.map",
     "static/js/2.6cb6d0fe.chunk.js.LICENSE.txt": "/uxuidesign/static/js/2.6cb6d0fe.chunk.js.LICENSE.txt",
     "static/media/App.css": "/uxuidesign/static/media/start-background.c792b445.svg",
     "static/media/phone.png": "/uxuidesign/static/media/phone.5b2bc7f5.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c1cf5559.js",
     "static/js/2.6cb6d0fe.chunk.js",
-    "static/css/main.3d50adac.chunk.css",
+    "static/css/main.de9ddea5.chunk.css",
     "static/js/main.4601a7d7.chunk.js"
   ]
 }
